@@ -17,3 +17,5 @@ TIMER AYARLARI
 INTERRUPT AYARI
 
 ![interrupt](https://github.com/farukreyiz/ITU_ROVER_KODLAMA_ODEVI/assets/64016317/e6059358-1538-42fa-86e9-cd0748d5d9f2)
+
+***Bu ödev; DC motor, L298N motor sürücüsü ve STM32F407VG Discovery Board'dan oluşan bir devre düşünülerek kodlanmıştır.***
